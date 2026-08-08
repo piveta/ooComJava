@@ -1,4 +1,4 @@
-Exemplos do livro Orientação a Objetos com Java, 1a edição - 2025:
+Um dia, adicionarei os exemplos do livro Orientação a Objetos com Java, 1a edição - 2025:
 
 https://www.amazon.com.br/dp/B0FWZ6HYVP
 
